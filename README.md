@@ -1,0 +1,1 @@
+This script analyzes coyote response to various linear features, prey presence, and predator presence in the Alberta oil sands using a proportional binomial generalized linear modelling approach. All data is from the ABMI/ACME OSM monitoring program. 
